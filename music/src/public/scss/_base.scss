@@ -1,0 +1,30 @@
+@import "./style";
+@import "./icon";
+.clear-fix {
+  display: inline-block;
+  &:after{
+    display: block;
+    content: " ";
+    height: 0;
+    line-height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+}
+
+@-webkit-keyframes rotating{
+  0% {
+    -webkit-transform:rotate(0deg)
+  }
+  100% {
+    -webkit-transform:rotate(360deg)
+  }
+}
+@keyframes rotating {
+  0% {
+    transform: rotate(0deg)
+  }
+  100% {
+    transform: rotate(360deg)
+  }
+}

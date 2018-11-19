@@ -1,0 +1,354 @@
+{
+	"result": "SUCCESS",
+	"code": 200,
+	"hot": {
+		"songListId": "3778678",
+		"songListName": "云音乐热歌榜",
+		"songListPic": "http://p1.music.126.net/GhhuF6Ep5Tq9IEvLsyCN7w==/18708190348409091.jpg",
+		"songListCount": "200",
+		"songListPlayCount": "2636391936",
+		"songListDescription": "云音乐热歌榜：云音乐用户一周内收听所有线上歌曲 官方TOP排行榜，每周四更新。",
+		"songListUserId": "1"},
+		"songs": [
+      {
+			"id": "486814412",
+			"name": "沙漠骆驼",
+			"singer": "展展与罗罗",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=486814412&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=486814412&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=486814412&key=579621905"
+		}, {
+			"id": "553755659",
+			"name": "可不可以",
+			"singer": "张紫豪",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=553755659&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=553755659&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=553755659&key=579621905"
+		}, {
+			"id": "1293886117",
+			"name": "年少有为",
+			"singer": "李荣浩",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=1293886117&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=1293886117&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=1293886117&key=579621905"
+		}, {
+			"id": "574566207",
+			"name": "盗将行",
+			"singer": "花粥",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=574566207&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=574566207&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=574566207&key=579621905"
+		}, {
+			"id": "1311319058",
+			"name": "东西",
+			"singer": "林俊呈",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=1311319058&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=1311319058&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=1311319058&key=579621905"
+		}, {
+			"id": "1318879277",
+			"name": "扑朔迷离 (跑得快)",
+			"singer": "Lil Ghost小鬼",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=1318879277&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=1318879277&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=1318879277&key=579621905"
+		}, {
+			"id": "449818741",
+			"name": "光年之外",
+			"singer": "G.E.M.邓紫棋",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=449818741&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=449818741&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=449818741&key=579621905"
+		}, {
+			"id": "863046037",
+			"name": "Way Back Home",
+			"singer": "SHAUN",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=863046037&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=863046037&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=863046037&key=579621905"
+		}, {
+			"id": "536099160",
+			"name": "不染",
+			"singer": "毛不易",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=536099160&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=536099160&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=536099160&key=579621905"
+		}, {
+			"id": "557581476",
+			"name": "去年夏天",
+			"singer": "王大毛",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=557581476&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=557581476&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=557581476&key=579621905"
+		}, {
+			"id": "571338279",
+			"name": "往后余生",
+			"singer": "王贰浪",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=571338279&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=571338279&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=571338279&key=579621905"
+		}, {
+			"id": "569214126",
+			"name": "可能否",
+			"singer": "木小雅",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=569214126&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=569214126&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=569214126&key=579621905"
+		}, {
+			"id": "29722582",
+			"name": "一百万个可能",
+			"singer": "Christine Welch",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=29722582&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=29722582&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=29722582&key=579621905"
+		}, {
+			"id": "29357087",
+			"name": "寂寞烟火",
+			"singer": "朱婧汐JING",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=29357087&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=29357087&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=29357087&key=579621905"
+		}, {
+			"id": "534542079",
+			"name": "侧脸",
+			"singer": "于果",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=534542079&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=534542079&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=534542079&key=579621905"
+		}, {
+			"id": "513360721",
+			"name": "云烟成雨",
+			"singer": "房东的猫",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=513360721&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=513360721&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=513360721&key=579621905"
+		}, {
+			"id": "546279760",
+			"name": "目不转睛",
+			"singer": "王以太",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=546279760&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=546279760&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=546279760&key=579621905"
+		}, {
+			"id": "1294899063",
+			"name": "陷阱",
+			"singer": "王北车",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=1294899063&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=1294899063&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=1294899063&key=579621905"
+		}, {
+			"id": "108390",
+			"name": "说谎",
+			"singer": "林宥嘉",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=108390&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=108390&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=108390&key=579621905"
+		}, {
+			"id": "440208476",
+			"name": "That Girl",
+			"singer": "Olly Murs",
+			"pic": "http://api.bzqll.com/music/netease/pic?id=440208476&key=579621905",
+			"lrc": "http://api.bzqll.com/music/netease/lrc?id=440208476&key=579621905",
+			"url": "http://api.bzqll.com/music/netease/url?id=440208476&key=579621905"
+		}],
+    "list": [
+      {
+        "id": "2278832643",
+        "title": "粤语 | 今晚星光灿烂，正好蹦迪",
+        "creator": "丑萌的猫",
+        "description": "今夜星光灿烂，搭上这架快车，灯光里飞驰，璀璨都市里蹦迪。\n\n劲歌集／舞曲集\n\n封面：刘雯",
+        "coverImgUrl": "http://p2.music.126.net/MXEtErFjqHRTnZG0GxKQ9A==/109951163549385709.jpg",
+        "songNum": "131",
+        "playCount": "27038"
+      }, {
+        "id": "896460125",
+        "title": "流行&经典||欧美电影金曲精选",
+        "creator": "可尼晏",
+        "description": "本单收录欧美经典电影金曲。\n用音乐传递来自电影里的爱情，亲情，励志......当经典的音乐与动人心魄的故事交织，一切都是最美的享受。\n歌单结合歌曲流行程度与歌曲质量进行精选，流行程度主要参考歌曲的评论量及熟知度，质量主要参考歌曲在电影及音乐奖项的成绩，综合起来就是既获得听众认可，也得到专业认可，这才能真正的地成为所谓的金曲。\n除此之外，对一些耳熟能详的电影歌曲进行收录，这些歌曲被无数次翻唱，传唱至今，经典毋庸置疑。\n｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜\n\n获奖及提名情况如下（歌曲序号）：\n(获多项奖项及提名只纳入其中一项）\n一、奥斯卡 最佳原创歌曲\n6.8.9.10.15.16.17.18.20.27.34.35.55.69\n提名：3.13.21.22.33.40.45.46\n二、金球奖 最佳电影原创歌曲\n5.28.41.43.67\n提名：11.26.29.71.74.75\n三、格莱美 最佳歌曲～最佳影视歌曲\n1.32.47.57.64.77\n提名：14.24.31.42.48.50.54.58\n四、MTV电影大奖 最佳影视歌曲\n61.62.63\n提名：44.73\n五、全美音乐奖 最佳原声集 曲目\n19.68.70\n六、经典耳熟能详系列\n2.4.7.12.23.25.30.36.37.38.39.49.50\n51.52.53.56.59.60.65.66.72.76.78.79\n80\n\n封面：马戏之王",
+        "coverImgUrl": "http://p2.music.126.net/kM3mRmsDY7jaQt1qnr6zqg==/109951163634052750.jpg",
+        "songNum": "80",
+        "playCount": "41192"
+      }, {
+        "id": "2340621859",
+        "title": "国电新势力 | 10月网易电子音乐人精选",
+        "creator": "电音赫兹",
+        "description": "\n跟着走路带风、无酒自嗨的EDM，电音文化迅速蔓延到东方。你听过百大DJ的出色炸曲，熟知Deadmau5，潮爷……那么你对国内电子音乐人的了解有多少呢？他们中的很多人也带着精湛的作品，踏上了国际舞台。\n乘着席卷中国的电子风潮，电音赫兹推出“国电新势力”，收录网易电子音乐人每月精选新作，让你最快听到新鲜出炉的国电强音！ \n让我们一起发现国电新世界！",
+        "coverImgUrl": "http://p2.music.126.net/fsu2x2O0yQZMA9q7z1Elhg==/109951163638578401.jpg",
+        "songNum": "40",
+        "playCount": "2112171"
+      }, {
+        "id": "2360146210",
+        "title": "水映弦月 | 妙音划过河岸 微泛起涟漪",
+        "creator": "岛屿Soliloquy",
+        "description": "我心里为你保留了位置，\n我忧思之时总会想起你，\n我耳边响起你低沉之音……",
+        "coverImgUrl": "http://p2.music.126.net/nlGbEbOA-VOTTs8292N3Ag==/109951163455638350.jpg",
+        "songNum": "27",
+        "playCount": "3850"
+      }, {
+        "id": "2445333976",
+        "title": "【韩语】晚安，与诗，与温柔馥郁白月光。",
+        "creator": "安七度_bts",
+        "description": "小时空\n\n我在雨后的赤橙里梦想\n你在我眼睛的黑白里张望\n晴朗的雨水的印记\n迷失在白云的远方\n倒影清清听你轻声唱\n笑声的天平托起了希望和夕阳\n夜色的泪眼烟雨朦胧\n淋湿了月光有我在身旁\n\n封面:(G)I-DLE 叶舒华\n2018.10.20",
+        "coverImgUrl": "http://p2.music.126.net/pHQD7oz8qSOJ_0I5u2jhAQ==/109951163630449657.jpg",
+        "songNum": "67",
+        "playCount": "5126"
+      },{
+        "id": "2201879658",
+        "title": "你的青春里有没有属于你的一首歌？",
+        "creator": "mayuko然",
+        "description": "关于青春里的那首歌，唱的是你和谁的回忆呢？那年你们有什么故事？\n\n总是有许多的记忆，是关于青春的。\n\n青春时埋下的那份躁动，总会在多年后，装饰着笑容。\n　　\n总是有许多的遗憾，是关于青春的。\n　　\n青春时还没来得及表达的情感，总会在多年以后，偶尔的左右着悲欢。\n　　\n那些最美年华里的相遇，那些青春里的不知所措，都被勾勒成了一幅幅画。\n　　\n而这些画，只在心情最愉悦时，只在心情最低落时，悄悄的，在内心深处闪过。\n\n封面：章乐韵",
+        "coverImgUrl": "http://p2.music.126.net/wpahk9cQCDtdzJPE52EzJQ==/109951163271025942.jpg",
+        "songNum": "131",
+        "playCount": "47960596"
+      },{
+        "id": "2321804269",
+        "title": "电影中的钢琴曲｜最会讲故事³",
+        "creator": "下一颗巧克力",
+        "description": "电影中的钢琴曲｜最会讲故事³\n==============================\n一部电影，深深爱上一首曲子。\n一段旋律，久久难忘一部电影。\n.\n钢琴用那88颗琴键，在光影中讲诉着一个个动情故事。是《请以你的名字呼唤我》中萌生在意大利小城那段短暂而难忘的夏日情愫；是《八月迷情》里为寻觅爱的怀抱而与音乐相伴流浪奔波的奥古斯特；又或是《月球》上山姆时时刻刻感受着的刻骨铭心的孤独。岁月里终有过往，光影中总有难忘。一首电影中的钢琴曲，虽无法解了你的心结，却也可以向你讲述一个故事，陪你一同怀念。\n.\n歌单封面：选自电影《请以你的名字呼唤我》\n.\n注：歌单属于（电影中的钢琴曲｜最会讲故事）系列第三期，所选电影来自欧美电影，中日韩电影篇在另一个同名歌单。\n.\n选曲电影，按歌单顺序排列\n1. 《忠犬八公的故事》\n2. 《红酒烩鸡2》\n3. 《海上钢琴师》\n4. 《故园风雨后》\n5. 《八月迷情》\n6. 《钢琴课》\n7. 《天堂电影院》\n8. 《说来有点可笑》\n9. 《断线》\n10. 《遮蔽的天空》\n11. 《请以你的名字呼唤我》\n12. 《阿甘正传》\n13. 《天使爱美丽》\n14. 《爱乐之城》\n15. 《触不可及》\n16. 《生命之树》\n17. 《美丽心灵的永恒阳光》\n18. 《卡罗尔》\n19. 《芳芳》\n20. 《金刚狼3》\n21. 《她》\n22. 《房间》\n23. 《怦然心动》\n24. 《成长教育》\n25. 《情人》\n26. 《无姓之人》\n27. 《云图》\n28. 《暮光之城 新月》\n29. 《国王的演讲》\n30. 《舞厅》\n31. 《战地钢琴师》\n32. 《爱在午夜降临前》\n33. 《月球》\n34. 《杀手没有假期》\n35. 《魔术师》\n36. 《咖啡公社》\n37. 《巴黎野玫瑰》\n38. 《返老还童》\n39. 《时光恋旅人》\n40. 《超脱》\n41. 《奇迹男孩》\n42. 《另一个地球》\n43. 《爱你 罗茜》\n44. 《水形物语》\n45. 《四分钟》\n46. 《窃听风暴》\n47. 《暮光之城》\n48. 《赎罪》\n49. 《钢琴教师》\n50. 《土拨鼠之日》\n注：将二单和三单并在一起，51-100的电影\n名字由于字数限制，可以查看第二单简介。\n==============================",
+        "coverImgUrl": "http://p2.music.126.net/r4dmNlYm0ApD1Afgdt7OtA==/109951163427654634.jpg",
+        "songNum": "100",
+        "playCount": "5150861"
+      }, {
+        "id": "2256615030",
+        "title": "「高质量英文歌」让你单曲循环的英文歌",
+        "creator": "小番茄种植员啦啦",
+        "description": "I love the endless sea, I love the rain softly, I love flying snow, I love bringing a bright full moon, but I love the starry night sky.\n（ '▿ ' ）\nStar is fascinating. Beautiful summer night, I was alone courtyards, looked up this quiet sky. Cool breeze caresses my face, so happy!\nヾ(❀╹◡╹)ﾉ~\nI am so glad that you could enshrine my precious songs they are beautiful!!!!!\n(｡◝ᴗ◜｡)",
+        "coverImgUrl": "http://p2.music.126.net/Op-a3I7Iy-amnSlzhVcWxw==/18814842976746273.jpg",
+        "songNum": "151",
+        "playCount": "5003811"
+      }, {
+        "id": "2237551001",
+        "title": "粤语传世经典，怀旧是人的本能",
+        "creator": "橘子树风车",
+        "description": "常听的部分经典粤语精选珍藏（会持续更新…）\n\n好歌曲从来都不会过时，但岁月无法常驻而我只相信时过境迁之后真情永驻。\n\n当你偶尔经过某个小港，听见一首熟悉的旋律，你会不会想起某些往事，回忆拥上心头。",
+        "coverImgUrl": "http://p2.music.126.net/PsONIoIzCJ-9gPCAeq9ahw==/19115009649498152.jpg",
+        "songNum": "101",
+        "playCount": "3404069"
+      }],
+    "news" : [
+      {
+        "id": "2236351380",
+        "title": "【经典】聼一首老歌，想念一段时光",
+        "creator": "Romantic丶Notes",
+        "description": "//\n寂静的黄昏，总让人怀念，总是深深沦陷...\n那些个细数光阴在手中沉淀的日子，一去不复返...\n偶尔，我一个人站在黄昏的角落，代替你主持夕阳的葬礼...\n想着想着，痛凝重了时间，曳落了容颜...\n青春的羽翼划破伤痛的记忆，昨日的泪水激起心中的涟漪....\n\n让我们聆聼一首老歌，也许旋律有些单调，可那却唱出了你的寂寞...\n也许你也能随声附和，可到最后你却哽咽不説...\n\n看，一轮明月\n思，一位故人\n念，一段时光\n忆，一首老歌\n\n请，一杯浊酒\n醉，一场离殇\n梦，情谊再续\n难，遗世芬芳\n\n愿你有高跟鞋但穿着球鞋...\n愿你穿着帅气的西装也可以陪她打球...\n愿你比别人更不怕一个人独处...\n愿你笑口常開...\n愿你初心不忘...\n",
+        "coverImgUrl": "http://p2.music.126.net/fR6GChtoT5QZao50O_BMcQ==/109951163311246502.jpg",
+        "songNum": "359",
+        "playCount": "12635784"
+      }, {
+        "id": "2385384236",
+        "title": "失恋必听歌单 | 因为你突然听懂了很多歌",
+        "creator": "不如喜欢我-",
+        "description": "你体会过曾经认定了一辈子的那个人，现在却形同陌路的感受吗？\n\n我们都曾经为了努力和一个人在一起，牺牲过很多的原则和事物，但爱情往往比我们想象中要脆弱得多，无论喜欢的时候两人有多亲密。留几年的长发，五分钟就剪完，几年的感情，一句分手就结束了。\n\n我想没有一个人喜欢说再见，每段感情的开始，也不是为了某一天可以笑着说离开。曾经以为爱情可以填满人生的遗憾。然而，制造更多遗憾的，却偏偏是爱情。\n\n现在，只剩下过去那些美好的回忆，舍不得放手，也不甘心就此失去。此后余生，他仍是你的软肋，却不再是你的铠甲。\n\n回不到过去是真的，但请相信，曾想和你过完余生也是真的。",
+        "coverImgUrl": "http://p2.music.126.net/8BvBZSaI3SgEbRMVuQlKjQ==/109951163513812808.jpg",
+        "songNum": "110",
+        "playCount": "8957994"
+      }, {
+        "id": "2337333174",
+        "title": "单循辑｜我想和你共享耳机",
+        "creator": "名侦探-柯北",
+        "description": "华语歌荒患者看这里，从本地曲库整理出了一些本人经常单循的歌，歌曲种类繁多，包括流行、民谣、说唱等，总有一首让你心水～\n\nhey 对方已开启耳机共享，请问是否接受？\n\n封｜山田直美\n时｜2018.07.29",
+        "coverImgUrl": "http://p2.music.126.net/CQDGeibcfkSHbbyjapNBmw==/109951163430714435.jpg",
+        "songNum": "119",
+        "playCount": "20886228"
+      }, {
+        "id": "2232237850",
+        "title": "耳朵喜欢你 好听到可以单曲循环",
+        "creator": "鹿白川",
+        "description": "偶尔去散散步\n有时候也会看看自己喜欢的书\n更多的时间用来听歌\n和朋友聊聊各自的近况\n不用为了谁去和我不熟悉的人来往\n在一点一点找回自己喜欢的生活\n\n封面来自画师：zipcy",
+        "coverImgUrl": "http://p2.music.126.net/8TZecCv5K_yYMbeZ6gieFw==/19029247742518751.jpg",
+        "songNum": "111",
+        "playCount": "37804092"
+      }, {
+        "id": "2220081292",
+        "title": "安静细腻的欧美小调，献给失眠的你",
+        "creator": "SuperMan-LEE",
+        "description": "闭上眼 是黑 睁开眼 是夜\n\n失眠的时候 已无区别\n\n谨献给失眠的你\n\n愿在漫漫长夜\n\n不再孤独 不再焦躁 不再痛苦\n\nSuperMan-LEE\n2018.5.10",
+        "coverImgUrl": "http://p1.music.126.net/4vIlysdvpQLy-CiTCKycGQ==/18872017579742524.jpg",
+        "songNum": "66",
+        "playCount": "2982448"
+      }, {
+        "id": "2230318386",
+        "title": "予你情诗百首，余生你是我的所有",
+        "creator": "YouTube视频推荐",
+        "description": "Without you\nHowever beautiful the city is\nIt is just null\n没有了你\n再怎么美丽的城市在我看来\n都只是一座空城\n\nTomato and potato\nKetchup and French fries\nYou and me\n番茄和土豆\n番茄酱和炸薯条\n你和我\n\nFor a long time\nI don’t know what loneliness means\nUntil I met you\n从前\n我不懂什么是孤独\n直到遇见你\n\nWhen I fell in love with you\nMy PH\nIs always lower than 7\n当我爱上你时\n我的PH\n始终低于7\n\nI prefer to wait\nBecause\nYou are my fate\n我愿意去等待\n因为\n你是我的本命\n\nYou and Me\nLovers and Friends\nNo regret, No complain\n你和我\n恋人或者朋友\n不后悔，不抱怨\n\nWhen you love somebody\nYou don't need proof\nYou can feel it\n当你爱一个人的时候\n你不需要证据\n就可以感受到Ta\n\nI always remember that day\nWhen I met you\nI love you\n我一直都记得那一天\n我见到了你\n我就爱上了你\n\nI love three things:the sun ,the moon and you\nthe sun is for the day ,the moon is for the night\nand you forever\n我爱三样东西：太阳，月亮和你\n太阳留给白天，月亮留给夜晚\n而你留给永远\n\nI don't know the passion until i met you\nI don't know the sorrow until i left you\nBut now I do know the love when I cherish you\n遇见你之前我不知道热情\n离开你之前我不知道悲伤\n但是我现在知道要爱你在我珍惜你的时候",
+        "coverImgUrl": "http://p1.music.126.net/m13zofgXFQWrLEOz9mKhcg==/109951163313795420.jpg",
+        "songNum": "100",
+        "playCount": "19448024"
+      }, {
+        "id": "2303371412",
+        "title": "全球史诗级万评电音!百种风格【主打】",
+        "creator": "一入电音深似海_-",
+        "description": "欢迎大家收听我的歌单，无论你在做什么，无论你开心还是悲伤，在这里你一定会找到能表达你的心情的电音！\n注意，为了方便区分，此歌单只收集有词电音，纯电音见No4\n这些歌曲评论没有10000+是谁的错？！！\n我的这个歌单，无所谓顺序，甚至可以将它们任意打乱\n持续更新中……\n创作不易，望大家支持！",
+        "coverImgUrl": "http://p1.music.126.net/2i9yUydPyCA4P9Gw740Eew==/109951163545564762.jpg",
+        "songNum": "228",
+        "playCount": "4177508"
+      }, {
+        "id": "2333641827",
+        "title": "欧美对唱｜用最浪漫的副歌 你也轻轻的附和",
+        "creator": "洛訮",
+        "description": "本单选取评价较高的五十首欧美男女对唱 愿你沉醉\n\n推荐曲目：1,7,8,12,23,26,41,49\n\n封面：特洛耶·希文（Troye Sivan）",
+        "coverImgUrl": "http://p1.music.126.net/iuiXHUc58R6a5-WiJflLDw==/109951163429520064.jpg",
+        "songNum": "50",
+        "playCount": "6063449"
+      }, {
+        "id": "2274455485",
+        "title": "「电子慢摇」陷入节奏的泥潭中",
+        "creator": "Quanjfic",
+        "description": "慢摇downtempo，是对一些多样化、风格化的，随意性比较强的音乐类型的统称，国人把HIP-HOP 、HOUSE、R&B 统称为慢摇，是我们国人自己的一种叫法，慢摇因其前卫、反叛、时尚、刺激而较为流行。\n\n慢摇音乐风格是多样化、风格化的，随意性比较强，在曲调空隙间留给他人有想像的空间，注重现场气氛的释放。以HIP-HOP 、HOUSE、R&B 为主 ，其间也有串烧DISCO出现。\n\n慢摇也是一种风格，专业术语Downtempo（缓拍、慢摇）是一种电子音乐的曲风之一，特点是节奏比较慢且节奏较为明显。\n\n正确理解慢摇\n\n慢摇 (downtempo)虽然的确是一种音乐曲风，但是绝非土嗨理解的那样，土嗨把所有电音都叫慢摇。慢摇实际上是指downtempo，最好是翻译为缓拍，是电子音乐的曲风之一，而一开始一些鼻祖级别的电音爱好者把downtempo翻译成慢摇，也算是个近义词，不算错误。最早有慢摇这个词的时候，是指 downtempo的中文翻译，那时候这个词不土嗨，后来被土嗨彻底扭曲了这个词的意思。土嗨把各种电音都叫成了慢摇，才变成了一个错误叫法。现在我们可以看到网上所谓的慢摇，其实根本已经没有任何界定了，土嗨们已经把任何电音都叫成慢摇了(因为他们都是听土嗨音乐的，所以大多时候是把土嗨音乐错误叫成慢摇)。但慢摇仅仅只是downtempo的中文翻译，是一种很接近chill-out的电子音乐的曲风分支。而之所以说慢摇是错误叫法，是因为土嗨现在已经把所有电音，无规则地全部都错误叫成慢摇了，无一正确理解慢摇的真正意思。其实downtempo不过是一个非常冷门的曲风，所以土嗨们把任何电音都错误叫成了慢摇，也没有出现什么人来纠正他们。\n\n（好了，说了这么多也不是我写的哈哈哈，还是度娘好用）\n\n封面出自国人画师 ASK\n\nQuanjfic/QJC.出品",
+        "coverImgUrl": "http://p1.music.126.net/A7llpK-DxGRc6LAMUjgT8w==/19052337486424281.jpg",
+        "songNum": "64",
+        "playCount": "3424763"
+      }],
+    "mv": [
+      {
+        "id": "10834100",
+        "name": "爱悟 Live版",
+        "singer": "邵夷贝",
+        "desc": null,
+        "playCount": 215183,
+        "pic": "http://p1.music.126.net/TQ8f-PfKSnE9-Pi33eYQ-w==/109951163654112224.jpg",
+        "url": "https://api.bzqll.com/music/netease/mvUrl?id=10834100&key=579621905"
+      }, {
+        "id": "10808053",
+        "name": "梦不落雨林",
+        "singer": "张艺兴",
+        "desc": null,
+        "playCount": 754588,
+        "pic": "http://p1.music.126.net/Fg9kmhLwhGiLqQSOwgikXw==/109951163611942598.jpg",
+        "url": "https://api.bzqll.com/music/netease/mvUrl?id=10808053&key=579621905"
+      }, {
+        "id": "10817037",
+        "name": "Stage第2季 04期 张希&曹方 岁月绵长而我将认真度过",
+        "singer": "张希/曹方",
+        "desc": null,
+        "playCount": 3801989,
+        "pic": "http://p1.music.126.net/aahKuiXwzsrYLGXqwgd-Bw==/109951163612660610.jpg",
+        "url": "https://api.bzqll.com/music/netease/mvUrl?id=10817037&key=579621905"
+      }, {
+        "id": "10804240",
+        "name": "Stage第2季 03期 陈鸿宇 此心安处",
+        "singer": "陈鸿宇",
+        "desc": null,
+        "playCount": 4020817,
+        "pic": "http://p1.music.126.net/cusEuH64MTa_9-g6wmCRkA==/109951163599843016.jpg",
+        "url": "https://api.bzqll.com/music/netease/mvUrl?id=10804240&key=579621905"
+      }, {
+        "id": "10831071",
+        "name": "胡桃夹子组曲",
+        "singer": "郎朗",
+        "desc": null,
+        "playCount": 290726,
+        "pic": "http://p1.music.126.net/GFHf4VyFWESvFNJzaEQgbA==/109951163636880852.jpg",
+        "url": "https://api.bzqll.com/music/netease/mvUrl?id=10831071&key=579621905"
+      }, {
+        "id": "10808473",
+        "name": "念念又不忘",
+        "singer": "李荣浩",
+        "desc": "李荣浩新专辑收录曲《念念又不忘》",
+        "playCount": 346525,
+        "pic": "http://p1.music.126.net/QYvCjNhY-fD5yX1Em4WOxg==/109951163642767664.jpg",
+        "url": "https://api.bzqll.com/music/netease/mvUrl?id=10808473&key=579621905"
+      }
+    ]
+
+}
